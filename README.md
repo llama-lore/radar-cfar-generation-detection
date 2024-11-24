@@ -1,6 +1,12 @@
-<h1 align="center">Generation and CFAR Detection of Target Using MATLAB</h1>
+# Generation and CFAR Detection of Target Using MATLAB
+
+
+A Radar Engineering Project
+
+## Project Summary
 
 Constant False Alarm Rate (CFAR) is an adaptive threshold whose level is determined by the clutter and / or noise in the vicinity of the radar echo. In radar and other sensing applications, the ability to detect weak targets amidst strong interference is paramount. CFAR achieves this by adaptively adjusting its detection threshold based on the local statistical properties of the background clutter, ensuring a constant probability of false alarm across different clutter environments. The objective of this project is to explore how CFAR can be effectively implemented using MATLAB for both the generation of target signals and the subsequent detection of these targets in noisy and cluttered environments.
+
 
 <p align="center"><img width = "700" src="https://github.com/user-attachments/assets/943a039f-213e-470f-91ed-bc05a4123994"</p>
 
